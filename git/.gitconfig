@@ -7,6 +7,5 @@
 	autocrlf = true
 [bash]
 	showDirtyState = false
-
 [init]
 	defaultBranch = main

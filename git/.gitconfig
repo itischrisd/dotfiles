@@ -1,0 +1,12 @@
+[user]
+	name = Krzysztof Dudek
+	email = dudek.krzysztof94@gmail.com
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[core]
+	autocrlf = true
+[bash]
+	showDirtyState = false
+
+[init]
+	defaultBranch = main
